@@ -17,3 +17,5 @@ https://arxiv.org/abs/1706.03762
 4. Flatten layers and add Dense layer with softmax function
 5. [**Transformer Model**](/SentimentAnaysis_using_Transformers/com/iqvia/TransformerModel.py)
    
+# Loss :
+![alt text](sentiment_anaysis_with_transformers.jpg)
