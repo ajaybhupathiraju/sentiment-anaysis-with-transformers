@@ -18,4 +18,4 @@ https://arxiv.org/abs/1706.03762
 5. [**Transformer Model**](/SentimentAnaysis_using_Transformers/com/iqvia/TransformerModel.py)
    
 # Loss :
-![alt text](sentiment_anaysis_with_transformers.jpg)
+![alt text](train_validation_loss.png)
