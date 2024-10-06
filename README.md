@@ -13,9 +13,9 @@ https://arxiv.org/abs/1706.03762
 ![alt text](sentiment_anaysis_with_transformers.jpg)
 
 # Main components
-1. [**Positional Encoding**](/Transformer/com/iqvia/Positional_Embedding.py)
-2. [**Embedding Layer**](/Transformer/com/iqvia/Embeddings.py)
-3. [**Transformer Encoding**](/Transformer/com/iqvia/TransformerEncoder.py)
+1. [**Positional Encoding**](/SentimentAnaysis_using_Transformers/com/iqvia/Positional_Embedding.py)
+2. [**Embedding Layer**](/SentimentAnaysis_using_Transformers/com/iqvia/Embeddings.py)
+3. [**Transformer Encoding**](/SentimentAnaysis_using_Transformers/com/iqvia/TransformerEncoder.py)
 4. Flatten layers and add Dense layer with softmax function
-5. [**Transformer Model**](/Transformer/com/iqvia/TransformerModel.py)
+5. [**Transformer Model**](/SentimentAnaysis_using_Transformers/com/iqvia/TransformerModel.py)
    
