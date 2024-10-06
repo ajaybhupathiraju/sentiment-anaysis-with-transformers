@@ -1,7 +1,5 @@
-# sentiment-anaysis-with-transformers
-
-# Transformers-Encoder-and-Decoder
-Sentiment anaysis using transformers
+# Sentiment Anaysis using Transformers
+build end to end customized transformer model for sentiment anaysis.
 
 # Reference paper : 
 "**Attention Is All You Need**"
